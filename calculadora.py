@@ -1,0 +1,10 @@
+print("=== CALCULADORA SIMPLE ===")
+print()
+numero1 = float(input("Ingresa el primer número: "))
+numero2 = float(input("Ingresa el segundo número: "))
+print()
+print(f"Suma: {numero1 + numero2}")
+print(f"Resta: {numero1 - numero2}")
+print(f"Multiplicación: {numero1 * numero2}")
+print(f"División: {numero1 / numero2}")
+
